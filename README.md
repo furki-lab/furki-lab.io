@@ -1,1 +1,1 @@
-# furki-lab.github.io2
+# https://furki-lab.github.io/furki-lab.io/
